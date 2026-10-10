@@ -1,2 +1,5 @@
-# aan
-monitoring-listrik
+
+streamlit
+pandas
+plotly
+streamlit-autorefresh
